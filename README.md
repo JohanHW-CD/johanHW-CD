@@ -10,10 +10,6 @@
 
 - 💻 I build machine learning models for fun  
 - 📚 Master's student in Machine Learning (with Physics flavors)
-- ⭐ I don’t believe in astrology; I’m a Sagittarius and we’re skeptical
+- ⭐ Graduating June 2025
 
 ---
-
-### 🎵 Vibe Check
-
-![Now playing](https://img.shields.io/badge/Now_Playing-Half_Man_Half_Horse-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
