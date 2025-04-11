@@ -16,4 +16,4 @@
 
 ### 🎵 Vibe Check
 
-![Spotify](https://novatorem-**johanHW-CD**.vercel.app/api/spotify)
+![Now playing](https://img.shields.io/badge/Now_Playing-Half_Man_Half_Horse-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
